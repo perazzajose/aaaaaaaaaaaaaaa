@@ -1,0 +1,14 @@
+
+.carousel {
+    display: flex;
+    justify-content: center;
+
+}
+.titlecar {
+    text-align: center; /* Alinea el contenido al centro */
+    margin-top: 20px; /* Establece un margen superior para separar el título del carousel */
+}
+
+.col-3 {
+   background-color: rgb(221, 221, 221);
+}
