@@ -5,10 +5,18 @@
 
 }
 .titlecar {
-    text-align: center; /* Alinea el contenido al centro */
-    margin-top: 20px; /* Establece un margen superior para separar el título del carousel */
+    text-align: center; 
+    margin-top: 20px; 
 }
 
 .col-3 {
    background-color: rgb(221, 221, 221);
 }
+.options {
+    display: block;
+}
+  @media (max-width: 767px) {
+    .options {
+        display: none; 
+    }
+  }
